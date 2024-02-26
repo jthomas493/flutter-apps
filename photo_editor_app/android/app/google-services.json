@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998898446198",
+    "project_id": "starlit-c5d19",
+    "storage_bucket": "starlit-c5d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998898446198:android:f5fde3a51fab8b65a7d457",
+        "android_client_info": {
+          "package_name": "com.intelweb.StarLit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998898446198-ltknfq70u67vgfufjb549tbnfi2drs51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCSK8-fN38mNpI1uP2MmEXmOAWe0Whgl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998898446198-ltknfq70u67vgfufjb549tbnfi2drs51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
